@@ -21,7 +21,7 @@
 
 JPhoto_AYNesterov.ipynb – код программы <br>
 journ.txt – пример текста (источник: https://www.psychologytoday.com/us/blog/darwins-subterranean-world/201812/do-dogs-engage-in-lucid-dreaming)<br>
-stop-list.txt – список стоп-слов
+stop-list.txt – список стоп-слов<br>
 links_to_images.txt – результат
 
 ### Планы по доработке/улучшению программы
