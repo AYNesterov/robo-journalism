@@ -19,6 +19,7 @@
 
 JPhoto_AYNesterov.ipynb – код программы <br>
 journ.txt – пример текста (источник: https://www.psychologytoday.com/us/blog/darwins-subterranean-world/201812/do-dogs-engage-in-lucid-dreaming)<br>
+stop-list.txt – список стоп-слов
 links_to_images.txt – результат
 
 <b><i>Андрей Нестеров, МДЖ172</i></b>
